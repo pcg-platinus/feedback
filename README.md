@@ -1,5 +1,5 @@
 # Feedback
-*Feedback - Verbesserungsideen, Anregungen, Bugs*
+*Feedback - Verbesserungsideen, Anregungen, Request, Bugs*
 
 Dieses Public GitHub-Repository [pcg-platinus/feedback](https://github.com/pcg-platinus/feedback/ dient dazu, um 
 1. allgemeine Rückmeldungen (Feedback), 
