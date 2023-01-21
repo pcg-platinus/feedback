@@ -16,4 +16,4 @@ Vielen Dank für Ihre Beiträge. Das platinus-Team.
 
 PS: 
 Es gilt das [Contributor License Agreement](https://github.com/kubernetes/community/blob/master/CLA.md). 
-Als Orientierung dient uns folgender [Contributor Guide](https://www.kubernetes.dev/docs/guide/#contributor-guide)
+Als Orientierung dient uns folgender [Contributor Guide](https://www.kubernetes.dev/docs/guide/#contributor-guide).
