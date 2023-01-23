@@ -9,7 +9,7 @@ einzumelden. Eine aktives GitHub-Konto ist Voraussetzung für die Teilnahme.
 
 Frage (Questions) werden in Diskussionsforen bearbeitet und abgebildet. 
 
-Für die Erfassung, Strukturierung, Bearbeitung sowei Verwaltung wird dazu die Funktion ["ISSUES"](https://github.com/pcg-platinus/feedback/issues) in GitHub verwendet. Mittel TAGGING werden die Beiträge klassifiziert.
+Für die Erfassung, Strukturierung, Bearbeitung sowie Verwaltung wird dazu die Funktion ["ISSUES"](https://github.com/pcg-platinus/feedback/issues) in GitHub verwendet. Mittel TAGGING werden die Beiträge klassifiziert.
 
 Vielen Dank für Ihre Beiträge. Das platinus-Team.
 
