@@ -4,7 +4,7 @@
 Dieses Public GitHub-Repository [pcg-platinus/feedback](https://github.com/pcg-platinus/feedback/) dient dazu, um 
 1. allgemeine Rückmeldungen (Feedback), 
 2. Anregungen und Verbesserungsideen (improvements, requests) sowie 
-3. Fehler (bugs) iund Störungen (incidents)
+3. Fehler (bugs) und Störungen (incidents)
 einzumelden. Eine aktives GitHub-Konto ist Voraussetzung für die Teilnahme.  
 
 Frage (Questions) werden in Diskussionsforen bearbeitet und abgebildet. 
