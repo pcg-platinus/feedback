@@ -9,7 +9,7 @@ Dieses Public GitHub-Repository [pcg-platinus/feedback](https://github.com/pcg-p
 3. Anfragen (*requests*), 
 4. Fehler (bugs) und Störungen (*incidents*),
 5. Frage (*questions*) - werden in [Diskussionsforum](https://github.com/pcg-platinus/feedback/discussions) bearbeitet
-einzumelden und zu bearbeiten. Für die Erfassung, Strukturierung, Bearbeitung sowie Verwaltung wird dazu die Funktion ["ISSUES"](https://github.com/pcg-platinus/feedback/issues) in GitHub verwendet. Mittels taggiong werden die Beiträge klassifiziert.
+einzumelden und zu bearbeiten. Für die Erfassung, Strukturierung, Bearbeitung sowie Verwaltung wird dazu die Funktion ["ISSUES"](https://github.com/pcg-platinus/feedback/issues) in GitHub verwendet. Mittels *tagging* werden die Beiträge klassifiziert.
 
 Eine aktives GitHub-Konto ist Voraussetzung für die Teilnahme.  
 
